@@ -1,4 +1,4 @@
-from random import randint
+# Калькулятор-конвертер 
 
 from kivy.app import App
 from kivy.uix.label import Label
